@@ -1,0 +1,51 @@
+body{
+    background-color: gray;
+    margin: 0;
+}
+
+div{
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    border-top: 3px solid rgb(0, 0, 0);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+:hover div{
+    scale: 1,1px;
+}
+
+img{
+    height: 40%;
+    width: 30%;
+}
+
+header{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 1px;
+}
+
+footer{
+    background-color: black ;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
+
+p{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+li{
+    padding: 10px;
+    list-style-position: inside;
+    text-align: left;
+
+}
